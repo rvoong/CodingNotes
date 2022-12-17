@@ -517,3 +517,10 @@ Output:
         # calling another member function of the class
         def getDoubleLength(self):
             return 2* self.getLength()
+
+
+      ```javascript
+      function Person() {}
+      Person.prototype.name = "Sudheer";
+      var object = new Person();
+      ```
